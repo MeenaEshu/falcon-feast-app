@@ -19,7 +19,7 @@ export const menuData: FoodItem[] = [
     rating: 4.5,
     category: "starters",
     isVeg: true,
-    imageUrl: "/src/assets/caesar-salad.jpg"
+    imageUrl: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fsalad&psig=AOvVaw1GPFY_SyS2_sJVJbQ1hpoV&ust=1758551578501000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjxzaOJ6o8DFQAAAAAdAAAAABAE"
   },
   {
     id: "2", 
